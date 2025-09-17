@@ -1,0 +1,6 @@
+undetected-chromedriver
+beautifulsoup4
+requests
+selenium
+selenium-stealth
+lxml
